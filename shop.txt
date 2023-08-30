@@ -6,3 +6,4 @@ Cereal
 Bread
 Eggs
 Water
+Newline for Pull request exercises
